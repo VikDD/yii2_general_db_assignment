@@ -1,3 +1,3 @@
 # yii2_general_db_assignment
 
-- [ђешение](https://github.com/superflanker35/yii2_general_db_assignment/blob/master/solution.md)
+-[Р РµС€РµРЅРёРµ](https://github.com/superflanker35/yii2_general_db_assignment/blob/master/solution.md)
