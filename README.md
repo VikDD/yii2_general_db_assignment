@@ -1,3 +1,3 @@
 # yii2_general_db_assignment
 
-- [Π ΠµΡΠµΠ½ΠΈΠµ](https://github.com/superflanker35/yii2_general_db_assignment/blob/master/solution.md)
+- [Πεψενθε](https://github.com/superflanker35/yii2_general_db_assignment/blob/master/solution.md)
